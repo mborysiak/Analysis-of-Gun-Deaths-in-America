@@ -1,7 +1,7 @@
 
 U.S. Gun Death Analysis:
 
-I completed this project as part of the DataQuest (dataquest.io) Data Scientist Path cirriculum. A few aspects of the project were guided, but the majority sections are custom, independent results. It explores information about U.S. gun deaths from 2012–2014. It was the first project in the course, and does not use Pandas for analysis (see other projects for use of Pandas). Instead, it uses lower level programming to explore the data (e.g. for-loops to generate dictionaries) and to examine questions about the dataset.
+I completed this project as part of the DataQuest (dataquest.io) Data Scientist Path cirriculum. A few aspects of the project were guided, but the majority of sections are custom, independent results. It explores information about U.S. gun deaths from 2012–2014. It was the first project in the course, and does not use Pandas for analysis (see other projects for use of Pandas). Instead, it uses lower level programming to explore the data (e.g. for-loops to generate dictionaries) and to examine questions about the dataset.
 
 Data Questions Explored:
 - Do gun deaths vary by year?
